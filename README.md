@@ -15,6 +15,6 @@ include details about the books they have written. The books are added and remov
 CRUD pages using DynamicVML.
 
 
-Project: https://github.com/dynamic-mvl/dvml
+Project: https://github.com/dynamic-vml/dvml
 
-Website: https://dynamic-mvl.github.io/
+Website: https://dynamic-vml.github.io/
