@@ -4,22 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using BookAuthors.Data;
-using Microsoft.Extensions.FileProviders;
-using System.IO;
-using System.Reflection;
-using Microsoft.AspNetCore.Mvc.ApplicationParts;
-using Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation;
-using Microsoft.Extensions.Options;
-using Microsoft.AspNetCore.StaticFiles;
-using DynamicVML;
-using Microsoft.AspNetCore.Mvc.Razor.Compilation;
-using AspNetCore;
 
 namespace BookAuthors
 {
